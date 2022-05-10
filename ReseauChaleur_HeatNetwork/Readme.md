@@ -165,17 +165,3 @@ A parallel simulation of all agents could be interesting. But the current featur
 No similar model could be identified in the library.
 The "diffusion in a directed network" could be the nearest model to which the present one can be related to.
 Some work has already been done in the energy sector using Agent Based Modeling, especially concerning smart electricity grid. Some references are given in the following section.
-
-## CREDITS AND REFERENCES
-
-This model has been developed by François Veynandt in the scope of the online course <a href="https://www.complexityexplorer.org/courses/90-introduction-to-agent-based-modeling-summer-2018">"Introduction to Agent Based Modeling"</a> (summer 2018) by Bill Rand, available on the Complexity Explorer platform of the Santa Fe Institute (the course has been taken off-session for time constraints).
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
-
-*Versions history:*
-v1 : "setup" creation of the network elements and their spatial location, core "go" procedures and properties of the network agents, user interface and documentation
-
-The following references show contributions of Agent Based Modeling to think and orientate the energy transition:
-
-* <a href="https://www.comses.net/codebases/5903/releases/1.10.0/"> Agent-based Renewables model for Integrated Sustainable Energy (ARISE)</a> (version 1.10.0)
-*Summary:* "Agent-based Renewables model for Indonesia Sustainable Energy (ARISE) is a hybrid energy model integrating multi-perspectives of engineering, social, microeconomic, macroeconomic and environment to ensure a comprehensive assessment of a proposed policy.The motivation to develop ARISE is due to the absence of suitable energy model for analysing renewable energy policy in developing countries. ARISE has features of unique characteristics of developing countries, such as urban-rural analysis, income inequality, and lack of electricity access. In this version of ARISE, the analysis scope is still limited to the interaction of proposed policy to households’ decisions in investing photovoltaic (PV). In addition, ARISE estimates the impacts of the policy on macroeconomic outputs and environments."
