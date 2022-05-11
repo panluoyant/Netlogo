@@ -25,7 +25,7 @@ pure patch construction (only the scope display uses a turtle)
 - torch: <color=#123456>fixed, solid, density 99999kg/m³, color 27</color> 
 - spark: <color=#123456 >Not fixed, gas, density 1.28kg/m³, color 44</color> 
 - Fuse: <color=#123456>Fixed, solid, density 99999kg/m³, color 32</color>
-- Clone: ​​<color= #123456>Fixed, Solid, Density 99999kg/m³, Color 35</color>
+- Clone: <color= #123456>Fixed, Solid, Density 99999kg/m³, Color 35</color>
 - Wall: <color=#123456>Fixed, Solid, Density 99999kg/m³, Color 5</color> 
 
 #### tips:
