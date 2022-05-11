@@ -1,4 +1,4 @@
-# ~Powder Game~
+# Powder Game
 pure patch construction (only the scope display uses a turtle) 
 
 ### latest changes: display all elements and their details with user-message, you can choose to place elements in user-message, disable skin and background music ( "net" reserved), detail adjustment, optimization
