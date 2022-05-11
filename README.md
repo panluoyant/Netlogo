@@ -1,2 +1,2 @@
 # Netlogo compilations
-##folder name：project name+username ！！！
+# folder name：project name+username ！！！
