@@ -29,4 +29,8 @@ pure patch construction (only the scope display uses a turtle)
 - Wall: <color=#123456>Fixed, Solid, Density 99999kg/m³, Color 5</color> 
 
 #### tips:
-The density is to try to refer to the moving speed of the elements in reality (random range) is proportional to the density difference. The melting speed of steel and mercury in magma is 1/5 of that of stone. When seeds encounter water and powder at the same time It will sprout and don't let the element cycle fall! This will be very stuck! The saved archive is in the data format of Netlogo world, so you can import the saved archive through import-a:world. The saved archive is only temporarily saved. If you need to exit the experiment, you can save the entire experiment to a local archive/export the archive to txt. The import archive is used Turtle Labs 1.1.9 new compatible fetch, so older versions are not available
+The density is to try to refer to the moving speed of the elements in reality (random range) is proportional to the density difference. 
+The melting speed of steel and mercury in magma is 1/5 of that of stone. 
+When seeds encounter water and powder at the same time It will sprout 
+don't let the element cycle fall! 
+This will be very stuck! The saved archive is in the data format of Netlogo world, so you can import the saved archive through import-a:world. The saved archive is only temporarily saved. If you need to exit the experiment, you can save the entire experiment to a local archive/export the archive to txt. The import archive is used Turtle Labs 1.1.9 new compatible fetch, so older versions are not available
