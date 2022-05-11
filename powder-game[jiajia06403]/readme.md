@@ -11,18 +11,18 @@ pure patch construction (only the scope display uses a turtle)
 - Snow: Not Fixed, Solid, Density 500kg/m³, Color 9.9 
 - Water Vapor: <color =#123456>Unfixed, Gas, Density 1kg/m³, Color 8
 - Flammable Gas: <color=#123456>Unfixed, Gas, Density 0.74kg/m³, Color 7
-- Oil : <color=#123456> not fixed, liquid, density 900kg/m³, color 11
-- fire: <color=#123456> not fixed, solid, density 1kg/m³, color red
-- magma : <color=#123456>unfixed, liquid, density 2000kg/m³, color orange 
-- Stone: <color=#123456>unfixed, solid, density 2200kg/m³, color 4
-- Salt : <color=#123456> not fixed, solid, density 800kg/m³, color 9
-- Brine: <color=#123456> not fixed, liquid, density 1030kg/m³, color sky
-- Steel : <color=#123456>Fixed, Solid, Density 7800kg/m³, Color 2
-- Wood: <color=#123456>Fixed, Solid, Density 500kg/m³, Color 34
-- Seed: < color=#123456>Fixed, solid, density 800kg/m³, color 54
-- Acid: not fixed, liquid, density 1840kg/m³, color 57
-- mercury: Not fixed, liquid, density 13600kg/m³, color 6
-- torch: Fixed, solid, density 99999kg/m³, color 27 
+- Oil: Not fixed, liquid, density 900kg/m³, color 11
+- Fire: Not fixed, solid, density 1kg/m³, color red
+- Magma : Not fixed, liquid, density 2000kg/m³, color orange 
+- Stone: Not fixed, solid, density 2200kg/m³, color 4
+- Salt : Not fixed, solid, density 800kg/m³, color 9
+- Brine: Not fixed, liquid, density 1030kg/m³, color sky
+- Steel : Fixed, Solid, Density 7800kg/m³, Color 2
+- Wood: Fixed, Solid, Density 500kg/m³, Color 34
+- Seed: Fixed, solid, density 800kg/m³, color 54
+- Acid: Not fixed, liquid, density 1840kg/m³, color 57
+- Mercury: Not fixed, liquid, density 13600kg/m³, color 6
+- Torch: Fixed, solid, density 99999kg/m³, color 27 
 - Spark: Not fixed, gas, density 1.28kg/m³, color 44 
 - Fuse: Fixed, solid, density 99999kg/m³, color 32
 - Clone: Fixed, Solid, Density 99999kg/m³, Color 35
