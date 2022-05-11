@@ -6,8 +6,8 @@ pure patch construction (only the scope display uses a turtle)
 ### Existing elements and their parameters: 
 - Air: Not fixed, gas, density 1.29kg/m³, color 0
 - Powder: Not fixed, solid, density 900kg/m³, color 36
-- water: Not fixed, liquid, density 1000kg/m³, color blue
-- ice: Fixed, Solid, Density 900kg/m³, Color 98
+- Water: Not fixed, liquid, density 1000kg/m³, color blue
+- Ice: Fixed, Solid, Density 900kg/m³, Color 98
 - Snow: Not Fixed, Solid, Density 500kg/m³, Color 9.9 
 - Water Vapor: Not fixed, Gas, Density 1kg/m³, Color 8
 - Flammable Gas: Not fixed, Gas, Density 0.74kg/m³, Color 7
@@ -31,8 +31,8 @@ pure patch construction (only the scope display uses a turtle)
 #### tips:
 The density is to try to refer to the moving speed of the elements in reality (random range) is proportional to the density difference. 
 The melting speed of steel and mercury in magma is 1/5 of that of stone. 
-When seeds encounter water and powder at the same time It will sprout 
-don't let the element cycle fall! This will be very stuck! 
+When seeds encounter water and powder at the same time It will sprout.
+Don't let the element cycle fall! This will be very stuck! 
 The saved archive is in the data format of Netlogo world, so you can import the saved archive through import-a:world. 
 The saved archive is only temporarily saved. 
 If you need to exit the experiment, you can save the entire experiment to a local archive/export the archive to txt. 
