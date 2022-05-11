@@ -9,8 +9,8 @@ pure patch construction (only the scope display uses a turtle)
 - water: Not fixed, liquid, density 1000kg/m³, color blue
 - ice: Fixed, Solid, Density 900kg/m³, Color 98
 - Snow: Not Fixed, Solid, Density 500kg/m³, Color 9.9 
-- Water Vapor: <color =#123456>Unfixed, Gas, Density 1kg/m³, Color 8
-- Flammable Gas: <color=#123456>Unfixed, Gas, Density 0.74kg/m³, Color 7
+- Water Vapor: Not fixed, Gas, Density 1kg/m³, Color 8
+- Flammable Gas: Not fixed, Gas, Density 0.74kg/m³, Color 7
 - Oil: Not fixed, liquid, density 900kg/m³, color 11
 - Fire: Not fixed, solid, density 1kg/m³, color red
 - Magma : Not fixed, liquid, density 2000kg/m³, color orange 
