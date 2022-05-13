@@ -1,3 +1,8 @@
+;a transportation model
+; make by panluouant
+
+
+
 globals [
   lanes
   selected-car
