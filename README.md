@@ -1,3 +1,4 @@
 # Netlogo compilations
 # folder name：project name+username ！！！
-### producer：@panluoyant @jiajia06403
+### producer：
+@panluoyant @jiajia06403 @mapmath @panluoyan 
